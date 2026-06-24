@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @steffFrank
-- 👀 I’m interested in web developement and Data Analysis
-- 🌱 I’m currently learning FullStack dev
-- 💞️ I’m looking to collaborate on React projects
-- 📫 How to reach me steffpouassi@gmail.com
+- 👋 Hi, I’m Steff Pouassi
+- ⚙️ I build practical software and AI-assisted systems for business operations
+- 📦 I focus on inventory, internal tools, dashboards, automation, databases, and workflow optimization
+- 💻 I work with Next.js, Supabase, Kotlin/Android, SQL, Google Workspace, and AI integrations
+- 🎓 I’m currently pursuing an MSc in Artificial Intelligence to build stronger AI-powered business tools
+- 🧠 I’m passionate about critical thinking, psychology, learning, and practical problem-solving
+- 🤝 Open to collaborating on tools that solve concrete business problems
+- 📫 Contact: contact@cruuwhub.it
 
 <!---
 steffFrank/steffFrank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
