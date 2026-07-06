@@ -6,7 +6,7 @@
 - 🧠 I’m passionate about critical thinking, psychology, learning, and practical problem-solving
 - 🤝 Open to collaborating on tools that solve concrete business problems
 - 📫 Contact: contact@cruuwhub.it
-- Website: www.cruuwhub.com
+- Website: www.cruuwhub.it
 
 <!---
 steffFrank/steffFrank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
